@@ -1,4 +1,5 @@
 import os
+#add gitignore
 
 from .settings import *
 
