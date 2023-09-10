@@ -1,4 +1,6 @@
-from . settings import *
+import os
+
+from .settings import *
 
 DEBUG = True
 
